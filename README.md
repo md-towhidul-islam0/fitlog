@@ -26,7 +26,7 @@ FitLog is designed for individuals who want a clean, minimalist, and dark-themed
 
 ## Project Overview  
 
-![FitLog App Preview](./public/assets/fitlog-preview.png)
+
 
 - **Goal:** Simplify workout selection and day-to-day plan creation with zero distraction.
 - **Library Coverage:** 12 primary exercises targeting 7 major muscle groups (Chest, Back, Legs, Shoulders, Arms, Core, Full Body).
