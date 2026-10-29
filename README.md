@@ -1,25 +1,3 @@
-<<<<<<< HEAD
-# FitLog
-A dark-mode, no-nonsense workout tracking app to log exercises, customize routines, and monitor fitness progress.
-
----
-
-## Table of Contents
-
-- [About the Project](#about-the-project)
-- [Project Overview](#project-overview)
-- [Key Features](#key-features)
-- [Tech Stack](#tech-stack)
-- [Dependencies](#dependencies)
-- [Installation & Setup](#installation--setup)
-- [Folder Structure](#folder-structure)
-- [Contributions](#contributions)
-- [How to Contribute](#how-to-contribute)
-- [License](#license)
-- [Contact](#contact)
-
----
-=======
 # 🏋️ FitLog — Personal Workout Planner
 
 A modern, responsive, and minimalist workout planning application built with **Next.js, React, TypeScript, and Tailwind CSS**. FitLog helps users explore exercises, create daily workout plans, save favorite workouts, and track estimated workout statistics through a clean dark-themed interface.
@@ -44,15 +22,15 @@ Explore the FitLog interface and its key pages.
 
 ### 🏠 Home & Workout Library
 
-![FitLog Home Page](/public/screenshot/home.png)
+![FitLog Home Page](public/screenshots/home.png)
 
 ### 💪 Workout Details
 
-![FitLog Workout Details](/public/screenshot/workout-details.png)
+![FitLog Workout Details](public/screenshots/workout-details.png)
 
 ### 📋 My Plan
 
-![FitLog My Plan](/public/screenshot/my-plan.png)
+![FitLog My Plan](public/screenshots/my-plan.png)
 
 > **Note:** Replace these example screenshot paths with your actual screenshots. If a screenshot is not available yet, add it after capturing the corresponding page.
 
@@ -67,50 +45,9 @@ FitLog is designed for people who want a simple and organized way to plan their 
 - Help users organize their daily exercise routines.
 - Provide quick access to saved workouts and planned exercises.
 - Deliver a consistent experience across desktop, tablet, and mobile devices.
->>>>>>> 83562dd (updatereadme)
 
-## About the Project  
-FitLog is designed for individuals who want a clean, minimalist, and dark-themed gym companion. Instead of overly complex fitness trackers, FitLog provides a direct experience: pick your lifts, lock them into your daily plan, track estimated workout durations and calorie burn, and log your overall progress.
+## ✨ Key Features
 
-<<<<<<< HEAD
----
-
-## Project Overview  
-
-
-
-- **Goal:** Simplify workout selection and day-to-day plan creation with zero distraction.
-- **Library Coverage:** 12 primary exercises targeting 7 major muscle groups (Chest, Back, Legs, Shoulders, Arms, Core, Full Body).
-- **Core Metrics:** Duration (minutes), Calorie Burn (kcal), Difficulty/User Ratings, and Saved Workouts Counter.
-
----
-
-## Key Features  
-- **Comprehensive Workout Library** — Browse detailed cards for major lifts (Bench Press, Deadlift, Squat, Kettlebell Swings, etc.) filtered by muscle groups and targeted equipment.
-- **Interactive Plan Builder** — Select lifts and add them directly into your daily workout schedule ("My Plan").
-- **Workout Counter & Saved List** — Quick navbar counters for tracking active plans and saved exercises.
-- **Dark-Theme Responsive UI** — Focused visual presentation optimized for easy viewing while working out.
-
----
-
-## Tech Stack  
-**Frontend:** Next.js · React · Tailwind CSS · TypeScript  
-**Hosting/Deployment:** Vercel  
-**Tools:** Git · VS Code  
-
----
-
-## Dependencies  
-Example dependencies extracted from the web application stack:
-
-```json
-{
-  "next": "^14.x",
-  "react": "^18.x",
-  "react-dom": "^18.x",
-  "lucide-react": "^0.x"
-}
-=======
 - **Workout Library:** Browse 12 primary exercises, including Bench Press, Deadlift, Squat, and Kettlebell Swings.
 - **Muscle Group Filtering:** Explore exercises across seven muscle groups: Chest, Back, Legs, Shoulders, Arms, Core, and Full Body.
 - **Interactive Plan Builder:** Add selected exercises to your personal daily workout plan.
@@ -274,4 +211,3 @@ To deploy your own version, import the GitHub repository into [Vercel](https://v
 If you find this project useful, consider giving the repository a ⭐ **star**!
 
 **Built with ❤️ using Next.js, React, TypeScript, and Tailwind CSS.**
->>>>>>> 83562dd (updatereadme)
