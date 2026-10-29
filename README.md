@@ -22,15 +22,15 @@ Explore the FitLog interface and its key pages.
 
 ### 🏠 Home & Workout Library
 
-![FitLog Home Page](public/screenshots/home.png)
+![FitLog Home Page](/public/screenshot/home.png)
 
 ### 💪 Workout Details
 
-![FitLog Workout Details](public/screenshots/workout-details.png)
+![FitLog Workout Details](/public/screenshot/workout-details.png)
 
 ### 📋 My Plan
 
-![FitLog My Plan](public/screenshots/my-plan.png)
+![FitLog My Plan](/public/screenshot/my-plan.png)
 
 > **Note:** Replace these example screenshot paths with your actual screenshots. If a screenshot is not available yet, add it after capturing the corresponding page.
 
